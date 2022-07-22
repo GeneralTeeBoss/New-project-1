@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(8, 8, 8);
+}
+.head{
+    display: flex;
+    justify-content:center;
+}
+p{
+    float:left;
+    font-size:x-large;
+    font-weight: bold;
+    color: white;
+}
+span{
+    color: rgb(170, 240, 65);
+    font-size:xx-large;
+}
+nav ul li{
+    display:inline-block;
+    margin: 30px;
+}
+ul li a {
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    color:rgb(170, 240, 65) ;
+}
+ ul li :hover{
+   background-color:rgb(170, 240, 65);
+    padding: 10px 15px;
+    border-radius: 30px;
+    border-style: none;
+    }
+ ul li a:hover{
+    color:white
+}

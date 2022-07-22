@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(48, 45, 45, 0.966);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-family:cursive;
+    font-size:40px;
+    color: #f0c0f0;
+    font-weight: bold;
+    position: relative;
+}
+ul li {
+    display: inline;
+    margin: 30px;
+}
+
+ul li a{
+    margin-top: 50px;
+    text-decoration: none;
+    font-family: cursive;
+    color:#f0c0f0;
+    font-weight:bold;
+    transition: 0.15s;
+}
+nav{
+    margin-top: 30px;
+}
+ul li :hover{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: #f0c0f0;
+    border-style:none ;
+
+}
+ul li a:hover{
+    color: white;
+    box-shadow: 10px 5px 10px rgb(153, 147, 147);
+}
+

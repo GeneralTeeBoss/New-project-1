@@ -1,0 +1,72 @@
+body{
+    background-color:  black;
+}
+
+.hero{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    font-weight: bolder;
+    color:#B4DF16  ;
+    margin-left: 20px; 
+    padding-top: 20px;
+    margin-bottom:-40px;
+}
+
+.zero{
+    float: right;
+}
+ul li {
+    display: inline;
+    margin: 10px;
+}
+ul li a{
+    text-decoration: none;
+    color:#B4DF16 ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:large;
+    transition: 0.30s;
+}
+ul li :hover{
+    background-color:#B4DF16  ;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+ul li a:hover{
+    color: white;
+    box-shadow:10px 5px 10px gray ;
+}
+ 
+.brief{
+    margin-top: 27%;
+    margin-left: 10%;
+    color:white
+}
+.brief h1 {
+    color: white;
+    margin-bottom: 15px;
+}
+span{
+    color:#B4DF16  ;
+    font-size: 70px;
+    cursor: pointer;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-bottom: -10px;
+}
+.image{
+    height: 70%;
+    width:40% ;
+    position: absolute;
+    bottom:100px;
+    right:10em;
+}
+.image img{
+    height: 500px;
+    width: 500px;
+
+}
