@@ -1,0 +1,107 @@
+.he{
+    padding-top:7%;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;  
+}
+.he:hover{
+    top: -50px;
+}
+.she{
+    padding-top: 10%;
+}
+.they{
+    padding-top: 5%;
+}
+.them{
+    padding-top:15% ;
+    padding-left: 15%;
+}
+.him{
+    padding-top: 12%;
+}
+.one {
+    background-image: linear-gradient(45deg,purple,pink);
+    width:100%;
+}
+.see{
+    padding-top: 8%;
+}
+.me{
+    padding-top: 8%;
+}
+p{
+    font-family: roboto;
+    font-size:large;
+    font-weight: bold;
+}
+
+.card-text{
+    color: black;
+}
+h5{
+    font-family: fantasy;
+}
+
+.car{
+    padding-top: 8%;
+}
+.two{
+   background-image:linear-gradient(35deg,white,blue);
+}
+.three{
+    background-image: linear-gradient(25deg,pink,white );
+}
+.four{
+    background-image: linear-gradient(rgb(94, 93, 93), white);
+}
+.five{
+    background-color:rgb(249, 253, 253);
+}
+.bus{
+   padding-top: 5%; 
+}
+.navbar{
+    background-color: gray;
+}
+.ed{
+    color:#019c5e;
+    font-size:50px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    font-
+}
+.star{
+    padding: 1rem;
+}
+.just{
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+
+a{
+    display: flex;
+
+}
+.six{
+    background-color: rgb(177, 177, 177);
+}
+input{
+    height: 35px;
+    width: 14rem;
+    border: none;
+    border-radius: 6px;
+
+}
+h4{
+    color: white;
+}
+.boo{
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s; 
+}
+.boo:hover{
+    top: -50px;
+}
+

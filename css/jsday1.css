@@ -1,0 +1,62 @@
+
+/*body{
+    background-color:white ;
+}
+.login{
+    position: relative;
+    top: 180px;
+    left: 520px;
+}
+.user{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+.pass{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+button{
+    background-color:black;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+img{
+    height: 100px;
+    width:100px;
+}*/
+
+
+.pizza{
+    position: relative;
+    top: 200px;
+}
+.name{
+    height: 40px;
+    width: 450px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.age{
+    height: 40px;
+    width: 450px;
+    border-radius: 5px;
+    margin-bottom: 10px; 
+}
+.country{
+    height: 40px;
+    width: 450px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
